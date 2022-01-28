@@ -13,7 +13,7 @@ int main()
     cin >> base;
     cout << "Introduce la altura de tu rectangulo" << endl;
     cin >> altura;
-    cout << "El area de tu rectangulo es: " << base * altura;
+    cout << "El area de tu rectangulo es: " << base * altura << endl;
     char miLetraFavorita;
     cout << "Cual es tu letra favorita?" << endl;
     cin >> miLetraFavorita;
