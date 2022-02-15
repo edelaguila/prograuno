@@ -40,6 +40,10 @@ int GetAttackPower(int Damage, int Weapon)
 {
     return Damage + Weapon;
 }
+int obtenerSuma(int Valor1, int Valor2)
+{
+    return Valor1 + Valor2;
+}
 
 int main()
 {
@@ -57,6 +61,10 @@ int main()
     PrintBool(isDead);
     Print("Este es el valor real de acuerdo a la compu");
     cout << isDead << endl;
+    Print("ejemplo de calculadora");
+    int suma = obtenerSuma(power, weapon);
+    Print("El resultado de la suma es:");
+    cout << suma << endl;
 
     return 0;
 }
