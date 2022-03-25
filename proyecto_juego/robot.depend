@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\main.cpp
+	<iostream>
+
+1647041769 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\src\player.cpp
+	"player.h"
+
+1647041769 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\objetos\proyecto\robot\include\player.h
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\main.cpp
+	<iostream>
+	"player.h"
+	"mapcell.h"
+	"gamemap.h"
+
+1648218813 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\player.h
+
+1647105197 D
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\player.cpp
+	"player.h"
+	<iostream>
+	<fstream>
+
+1647127950 ot_construyendo_paredes
+	"player.h"
+	<iostream>
+	"gamemap.h"
+	<iostream>
+	<fstream>
+
+1648181161 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\mapcell.cpp
+	"mapcell.h"
+	<iostream>
+
+1648130225 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\mapcell.h
+
+1648176707 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\include\gamemap.h
+	"mapcell.h"
+
+1648218813 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\proyecto juego\src\gamemap.cpp
+	"gamemap.h"
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,17 @@
+b1cdf3e Agregando archivos de creditos
+2789ee5 Cambios didacticos terminados
+d22f9fa Correccion de movimientos del robot
+5df24b4 cambios por compilacion
+c6e117e ultimos cambios
+73526aa Paso 8 - agregando el premio al juego
+0327ab0 Paso 7 - Agregando portada del juego
+e202bf3 Paso 6 - Gestionando colisiones del jugador con paredes
+11becc5 Paso 5 - Optimizando los movimientos del jugador en el mapa
+68af83c Cambios complementarios 2
+b41d9d5 Cambios complementarios
+32bcc07 Paso 4 - Agregando paredes y consultanto archivos
+de87ebd Paso 3 - Interaccion jugador y mapa de juego
+cc7bd09 Paso 2 - Construccion del mapa del juego
+9a6b219 Agregando comentarios generales
+1ab3c87 Paso 1 entrada de datos, loop y coordenadas
+d043247 inicio del proyecto c++
