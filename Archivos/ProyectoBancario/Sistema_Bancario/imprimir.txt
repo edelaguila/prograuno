@@ -1,0 +1,3 @@
+Cuenta    Apellido        Primer nombre      Saldo
+1         Del             Aguila            200.00
+2         Ruiz            Luis              500.50
