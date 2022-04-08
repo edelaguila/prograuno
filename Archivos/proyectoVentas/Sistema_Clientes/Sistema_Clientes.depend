@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1649385170 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectos\sistema_clientes\src\conexion.cpp
+	"conexion.h"
+
+1649385170 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectos\sistema_clientes\include\conexion.h
+
+1649431870 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectos\sistema_clientes\src\usuarios.cpp
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	"usuarios.h"
+
+1649424537 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectos\sistema_clientes\include\usuarios.h
+
+1649427084 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\archivos\proyectos\sistema_clientes\main.cpp
+	<iostream>
+	<fstream>
+	"usuarios.h"
+
