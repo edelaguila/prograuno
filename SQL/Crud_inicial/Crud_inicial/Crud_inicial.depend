@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1651152900 source:c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\crud_inicial\crud_inicial\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<stdio.h>
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\mysql_com.h
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\mysql_time.h
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\mysql_version.h
+	<custom_conf.h>
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\typelib.h
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\my_list.h
+
+1586635608 c:\users\visitante\proyectos\didactica2k\temporal\prograuno\sql\resource\include\my_alloc.h
+
