@@ -1,0 +1,1 @@
+SELECT model_year as modelo, product_name as nomobre, price as precio FROM bikestore.products WHERE model_year=2019 ORDER BY product_name DESC;
